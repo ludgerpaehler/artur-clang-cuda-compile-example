@@ -65,7 +65,3 @@ The samples makefiles can take advantage of certain options:
 ```
     $ make HOST_COMPILER=g++
 ```
-
-## References (for more details)
-
-[whitepaper](./doc/BlackScholes.pdf)
